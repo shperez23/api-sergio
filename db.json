@@ -1,16 +1,83 @@
 {
-  "posts":[
+  "usuarios": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "usuario": "Administrador",
+      "email": "admin@gmail.com"
     }
   ],
-  "comments" : [
+  "articles": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "title": "Pixel 6 Pro leak shows it'll be the fastest-charging Google phone ever",
+      "description": "Phones are getting bigger. The Pixel 6 Pro, for example, will have a massive 6.7-inch screen, the largest of any Google-branded phone yet. Naturally as",
+      "content": "Phones are getting bigger. The Pixel 6 Pro, for example, will have a massive 6.7-inch screen, the largest of any Google-branded phone yet. Naturally as those screens get bigger and processors get more powerful, the batteries have to get bigger to kee... [1416 chars]",
+      "url": "https://www.androidpolice.com/2021/09/19/pixel-6-pro-leak-shows-itll-be-the-fastest-charging-google-phone-ever/",
+      "image": "https://www.androidpolice.com/wp-content/uploads/2021/08/02/Google-Pixel-6-Portfolio-Shot-1-scaled.jpg",
+      "publishedAt": "2021-09-20T01:38:21Z"
+    },
+    {
+      "id": 3,
+      "title": "Pixel 6 wallpapers leak w/ colorful plant and flower theme",
+      "description": "The wallpapers from the upcoming Pixel 6 series have leaked and show off a plant and flower theme for Google's flagships.",
+      "content": "Google always introduces a batch of wallpapers with its new Pixel, and it seems the Pixel 6 series will be no exception, as a fresh leak has just revealed the next batch of new designs.\nThe folks over at XDA, pulling from a source who supposedly has ... [1284 chars]",
+      "url": "https://9to5google.com/2021/09/19/pixel-6-wallpapers-leak-gallery/",
+      "image": "https://i2.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/09/pixel-6-pro-silver.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2021-09-20T00:11:38Z"
+    },
+    {
+      "id": 4,
+      "title": "Movistar confirm Miguel Angel Lopez will leave team after sudden Vuelta a España abandon",
+      "description": "Colombian's contract will be dissolved as of October 1",
+      "content": "Movistar have announced that Miguel Ángel López will depart the team on October 1 in the aftermath of his sudden abandon on the penultimate stage of the Vuelta a España.\nIn a short statement on Saturday, Eusebio Unzue’s team said: “Abarca Sports anno... [2132 chars]",
+      "url": "https://www.cyclingnews.com/news/movistar-confirm-miguel-angel-lopez-will-leave-team-after-sudden-vuelta-a-espana-abandon/",
+      "image": "https://cdn.mos.cms.futurecdn.net/emrtVBaiwqonXh5qGNHjej-1200-80.jpg",
+      "publishedAt": "2021-09-18T11:36:58Z"
+    },
+    {
+      "id": 5,
+      "title": "Drag Race UK season 3's Choriza May calls out xenophobic fans",
+      "description": "Drag Race UK season 3 contestant Choriza May took to Twitter to call out fans saying she should have competed on Drag Race Espana, calling it xenophobic.",
+      "content": "Drag Race UK season three contestant Choriza May has called out xenophobic fans after reportedly receiving comments saying she should have applied for the Spanish version of the show.\nCalling out the haters, Choriza tweeted: \"This whole 'Choriza shou... [3383 chars]",
+      "url": "https://www.digitalspy.com/tv/reality-tv/a37529938/drag-race-uk-season-3-queen-choriza-xenophobic-fans/",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/choriza-may-rupauls-drag-race-uk-series-3-1631206394.jpg?crop=0.939xw:0.314xh;0,0.143xh&resize=1200:*",
+      "publishedAt": "2021-09-09T05:23:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Eiking signs with EF Education-Nippo",
+      "description": "Norwegian who led Vuelta a España for seven stages leaves Intermarché-Wanty-Gobert",
+      "content": "EF Education-Nippo announced the signing of talented Norwegian Odd Christian Eiking on Wednesday. The 26-year-old joins the American squad after a highly successful Vuelta a España, where he led the race for seven stages and finished 11th overall.\nEi... [2733 chars]",
+      "url": "https://www.cyclingnews.com/news/eiking-signs-with-ef-education-nippo/",
+      "image": "https://cdn.mos.cms.futurecdn.net/rDvLiAL2mL9MXkHQUC7dYN-1200-80.jpg",
+      "publishedAt": "2021-09-08T18:39:24Z"
+    },
+    {
+      "id": 7,
+      "title": "Coffee, orange, milk to Ecuador, Peru",
+      "description": "Amul's dark chocolate range is now one of its USPs. But for people who saw the '80s, '90s, it's hard to forget the small chocolate bars that were considered a treat back then.",
+      "content": "Text Size: A- A+\nNew Delhi: A visit to any grocery store today to satiate cravings for chocolate will likely lead you to buying a certain product. Defined by its dark-brown coloured packaging with brightly coloured text and taking its name from the p... [5969 chars]",
+      "url": "https://theprint.in/features/brandma/coffee-orange-milk-to-ecuador-peru-how-amuls-dark-revolution-changed-the-chocolate-game/735772/",
+      "image": "https://static.theprint.in/wp-content/uploads/2021/09/Brandma-Amul-chocolate.jpg",
+      "publishedAt": "2021-09-19T06:29:42Z"
+    },
+    {
+      "id": 8,
+      "title": "US Open 2021: Superstitions to keep Leylah Fernandez's dad/coach from maiden major final",
+      "description": "Fernandez, a former footballer from Ecuador who became a tennis coach for his daughter, will watch from home in Florida as he has for two weeks when 19-year-old Fernandez meets 18-year-old qualifier Raducanu for the title.",
+      "content": "Fernandez, a former footballer from Ecuador who became a tennis coach for his daughter, will watch from home in Florida as he has for two weeks when 19-year-old Fernandez meets 18-year-old qualifier Raducanu for the title.\nNew York: Jorge Fernandez w... [3863 chars]",
+      "url": "https://www.firstpost.com/sports/us-open-2021-superstitions-to-keep-leylah-fernandezs-dadcoach-from-maiden-major-final-9955281.html",
+      "image": "https://images.firstpost.com/wp-content/uploads/2021/09/Leylah-Fernandez-640.jpg",
+      "publishedAt": "2021-09-10T23:30:33Z"
+    },
+    {
+      "id": 9,
+      "title": "Ecuador's Petroecuador faces arbitration claims from two contractors",
+      "description": "Ecuador's state oil company Petroecuador is facing arbitration claims stemming from contractual disputes with two private contractors, the company said on Friday, adding that the processes would not affect crude output.",
+      "content": "A view shows the Ecuador's state-run Esmeraldas refinery complex in Esmeraldas, Ecuador, August 15, 2017, REUTERS/Daniel Tapia/File Photo\nQUITO, Sept 10 (Reuters) - Ecuador's state oil company Petroecuador is facing arbitration claims stemming from c... [1665 chars]",
+      "url": "https://www.reuters.com/business/energy/ecuadors-petroecuador-faces-arbitration-claims-two-contractors-2021-09-10/",
+      "image": "https://www.reuters.com/resizer/lxz6AwcxhuwoQACwiujHZGgUWng=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FWXKGPZDLNMNFBB5XMR2QKTPBU.jpg",
+      "publishedAt": "2021-09-10T04:00:00Z"
     }
   ]
 }
